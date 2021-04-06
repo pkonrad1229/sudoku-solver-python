@@ -4,7 +4,7 @@
  Packages needed: pygame, requests.
 
  Controls:
- space - solve sudoku
- N - create new board
- 1-9 - place such value in selected block (if possible)
- Del - delete value in selected block
+ SPACE - Solve sudoku.
+ N - Create new board.
+ 1-9 - Place such value in selected block (if possible).
+ Del - Delete value in selected block.
